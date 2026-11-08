@@ -1,0 +1,12 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# 产物与缓存
+__pycache__/
+*.pyc
+_shots/
+node_modules/
